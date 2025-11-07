@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Your Name]
+# Hi there 👋 I'm [Adinata]
 
 💻 **Laravel Developer** | 🛍️ **Building Awesome Stores** | 🚀 **Passionate about Clean Code**
 
@@ -19,9 +19,9 @@ Description of your other project
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- 📧 Email: your.email@domain.com
-- 💼 LinkedIn: [Your Name](https://linkedin.com/in/yourprofile)
-- 🌐 Portfolio: [yourportfolio.com](https://yourportfolio.com)
+- 📧 Email: Adinata79177@gmail.com
+- 💼 LinkedIn: [Belum Buat)
+- 🌐 Portfolio: [Belum di Upload)
 
 ## 💡 Fun Fact
 > "I turn coffee into code ☕→💻"

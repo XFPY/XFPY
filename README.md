@@ -15,7 +15,7 @@
 4. **Pelajari Livewire/Alpine.js** 🎯
 
 ## 💼 Project Saya
-### 🛍️ [Toko Online Lengkap](link)
+### 🛍️ [Toko Online Lengkap](https://github.com/XFPY/Store-Laravel)
 **Teknologi**: Laravel, Tailwind CSS, MySQL, JavaScript
 **Status**: ✅ Selesai & Sudah Deploy
 

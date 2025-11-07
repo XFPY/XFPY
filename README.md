@@ -1,33 +1,35 @@
+# 👋 Hai, saya [Adi Nata]!
 
-## 🎯 Filosofi Belajar Saya
-> **"Dalam-dalam dulu, baru melebar"** - Lebih baik menguasai stack utama dengan baik sebelum loncat ke teknologi lain.
+**🚀 Laravel Developer | 🎨 Tailwind CSS Enthusiast | 💻 Sedang Membangun Digital Empire**
 
-## 🛠️ Tech Stack Andalan
-- **Backend**: Laravel + PHP
-- **Frontend**: HTML + Tailwind CSS + JavaScript dasar
-- **Database**: MySQL
-- **Tools**: Git, Composer, VS Code
+## 🌟 Sedang Fokus Pada:
+- 🛍️ **Membangun Toko Online** dengan Laravel + Tailwind
+- 📚 **Mendalami Ecosystem Laravel**
+- 🎯 **Mastering Clean Code & Best Practices**
 
-## 📚 Rencana Belajar 2025
-1. **Mendalami Laravel advanced** ✅
-2. **Buat project real** ✅  
-3. **Tingkatkan skill JavaScript** 🔄
-4. **Pelajari Livewire/Alpine.js** 🎯
+## 🛠️ Tech Stack Saya:
+<p align="left">
+<img src="https://skillicons.dev/icons?i=laravel,php,tailwind,css,html,js,mysql,vscode,git" />
+</p>
 
-## 💼 Project Saya
-### 🛍️ [Toko Online Lengkap](https://github.com/XFPY/Store-Laravel)
-**Teknologi**: Laravel, Tailwind CSS, MySQL, JavaScript
-**Status**: ✅ Selesai & Sudah Deploy
+## 📊 GitHub Stats Preview:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfpy&show_icons=true&theme=radical)
 
-### 🎨 [Website Portfolio](link) 
-**Teknologi**: Laravel, Tailwind CSS
-**Status**: ✅ Sudah Online
+## 💼 Project yang Akan Datang:
+- 🔥 **Laravel E-Commerce Store** - Toko online lengkap
+- 🎨 **Personal Portfolio** - Website portfolio modern
+- 📱 **Admin Dashboard** - Dashboard management yang powerful
+
+## 📫 Let's Connect!
+<p align="left">
+<a href="mailto:your-adinata79177@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://wa.me/6282145627438">
+  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+</p>
 
 ---
-<div align="center">
 
-**Fokus sama yang saya kuasai, dan terus berkembang setiap hari**
-
-[![Email](https://img.shields.io/badge/Hubungi_Saya-Email%20Saya-blue?style=flat)](mailto:adinata79177@gmail.com)
-
-</div>
+⭐ *"From zero to hero, one commit at a time!"* ⭐

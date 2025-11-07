@@ -1,4 +1,4 @@
-# Hi there 👋 I'm [Adinata]
+# Hi there 👋 I'm [AdiNata]
 
 💻 **Laravel Developer** | 🛍️ **Building Awesome Stores** | 🚀 **Passionate about Clean Code**
 
@@ -6,7 +6,7 @@
 - **Backend**: PHP, Laravel, MySQL
 - **Frontend**: JavaScript, Tailwind CSS, Vue.js  
 - **Tools**: Git, Docker, VS Code
-- **Learning**: AWS, React, Node.js
+- **Learning**:React, Node.js
 
 ## 🛠️ My Projects
 ### 🛍️ [My Laravel Store](https://github.com/username/your-store)
@@ -16,7 +16,7 @@ A beautiful e-commerce platform built with Laravel and Tailwind CSS
 Description of your other project
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?xxfpyy=AdiNata&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
 - 📧 Email: Adinata79177@gmail.com

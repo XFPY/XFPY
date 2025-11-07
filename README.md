@@ -1,4 +1,3 @@
-ini template saya
 # 👋 Hai, saya [Adi Nata]!
 
 **🚀 Laravel Developer | 🎨 Tailwind CSS Enthusiast | 💻 Sedang Membangun Digital Empire**
@@ -12,9 +11,6 @@ ini template saya
 <p align="left">
 <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,css,html,js,mysql,vscode,git" />
 </p>
-
-## 📊 GitHub Stats Preview:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfpy&show_icons=true&theme=radical)
 
 ## 💼 Project yang Akan Datang:
 - 🔥 **Laravel E-Commerce Store** - Toko online lengkap

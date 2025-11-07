@@ -14,17 +14,6 @@
 <img src="https://skillicons.dev/icons?i=laravel,php,tailwind,css,html,js,mysql,vscode,git,github" />
 </p>
 
-## 📊 GitHub Stats:
-<div align="center">
-
-![Adi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=xfpy&show_icons=true&theme=radical&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=xfpy&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xfpy&layout=compact&theme=radical&hide_border=true)
-
-</div>
-
 ## 💼 Project yang Akan Datang:
 - 🔥 **Laravel E-Commerce Store** - Toko online lengkap
 - 🎨 **Personal Portfolio** - Website portfolio modern  

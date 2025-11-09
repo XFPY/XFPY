@@ -1,6 +1,6 @@
 # 👋 Hai, saya Adi Nata!
 
-**🚀 Laravel Developer | 🎨 Tailwind CSS Enthusiast | 💻 Sedang Membangun Digital Empire**
+**🚀 Laravel Developer | 🎨 Tailwind CSS | 💻 Sedang Membangun Digital Empire**
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Selamat+datang+di+profile+saya!;Ready+to+build+amazing+things!&center=true&size=18)
 
